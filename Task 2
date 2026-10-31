@@ -1,0 +1,96 @@
+DOCTYPEhtml>
+    <html lang="ar"dir="rlt">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport"content="width=device-width,initial-scale=1.0">
+                <title>منصات التعلم الالكتروني</title>
+        </head>
+        <body>
+            <h1>منصات التعلم الالكتروني</h1>
+            <p><strong>اعداد الطالبه:</strong>شروق محمد عبد الفتاح محمد محمد</p>
+            <p><strong>الرقم الجامعي:</strong>2501800</p>
+            <p><strong>رقم السكشن:</strong>81</p>
+            <hr>
+            <h2>المقدمه</h2>
+            <p>في السنوات لااخيرة شهد قطاع التعليم تطويرات تكنولوجيه في قطاع 
+التعليم ،حيث اصبحت حجر الزاويه في تقديم التعليم الحديث سواء 
+كان تعليم عن بعد او تعليم مدمج يجمع بين الحضور الفعلي والتفاعل 
+ الرقمي.
+
+                
+            </p>
+            <p>تتلخص الفكره في انشاء نظام متكامل لاداره التعلم وتنظيم التواصل 
+بين اطراف المنظومه ومتابعه لااداء الدراسي عن طريق منصه تجمه 
+بين الطالب والمعلم .                        
+  </p>
+ <img src="img.png" width="300">
+  <h2>اهميه المنصات التعليميه في العصر الحديث؟</h2>
+  <p><strong>توفير فرص التعليم المستمر للجميع من خلال: </strong></p>
+  <ol>
+     <li>/المرونه والتواجد المستمر من خلال امكانيه الوصول للمناهج في 
+ أي وقت وبسهوله جدا.</li> 
+     <li>تحسين كفأه التواصل من خلال تسهيل تبادل المعلومات بين المعلم 
+ والطالب دون أي عوائق .</li>
+     <li>متابعه لااداء لااكاديمي عن طريق مراقبه اداء الطالب 
+ ومستوياتهم.</li>
+      
+      
+  </ol>
+  <h3>اهميه منصات التعلم الرقمي</h3>
+  <ul>
+  <li> تجاوزالعوائق الزمنيه والجغرافيه </li>    
+  <li>تعلم التعلم الذاتي </li>
+  <li>رفع كفائه التقييم 
+ </li>
+  </ul>
+  <h3>امثله تطبيقيه للمنصات التعليميه ؟
+ </h3>
+ <p> من امثله المنصات التعليمية؟</p>
+ <ul>
+ <li> Moodleمنصه</li>    
+ <li>Google classroom منصه </li>
+ </ul>
+ <h3>جدول يوضح امثله المنصات التعليمية</h3>
+ <table style="border: 1px solid black; border-collapse: collapse; width: 100%;">
+
+    <tr>
+        <th style="border: 1px solid black; padding: 10px;">
+            اسم المنصة
+        </th>
+
+        <th style="border: 1px solid black; padding: 10px;">
+            استخدامها
+        </th>
+    </tr>
+
+    <tr>
+        <td style="border: 1px solid black; padding: 10px;">
+            Moodle
+        </td>
+
+        <td style="border: 1px solid black; padding: 10px;">
+            إدارة التعليم الإلكتروني
+        </td>
+    </tr>
+
+    <tr>
+        <td style="border: 1px solid black; padding: 10px;">
+            Google Classroom
+        </td>
+
+        <td style="border: 1px solid black; padding: 10px;">
+            تنظيم الدروس والتواصل بين المعلم والطالب
+        </td>
+    </tr>
+
+</table>
+<h3>المراجع:</h3>
+<ul>
+    <li>ركز مساعد Google for Education 
+    <a href="https://support.google.com/edu/"> اضغط هنا</a>
+    <li>توثيق  الرسمي لمنصه  Moodle Docs
+ <a href="https://docs.moodle.org/">اضغط هنااا</a></li>
+</li>
+</ul>
+  </body>
+    </html>
